@@ -3,6 +3,7 @@ Changes:
 - Better volume paths
 - Official Open WebUI for instant updates
 - Changed the logo to the Open WebUI one
+- Made a non-casaos version
 
 # Belullama
 (CasaOS +) Ollama + Open WebUI = Belullama
